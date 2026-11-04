@@ -3,6 +3,6 @@ document.getElementById('changeText').addEventListener('click', function() {
     if (paragraph.textContent.includes('第一段')) {
         paragraph.textContent = '废物吴言忠。';
     } else {
-        paragraph.textContent = 'fw吴言忠。';
+        paragraph.textContent = '废物吴言忠。';
     }
 });
